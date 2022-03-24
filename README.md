@@ -1,2 +1,2 @@
 # homeDesktopApp
-A app for me and my wife.
+An app for me and my wife.
